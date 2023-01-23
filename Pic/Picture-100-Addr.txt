@@ -1,0 +1,1 @@
+{200, 200, 0x00000000, 0x00013880},//LT_ZipIndex=0,C:/Users/s60v5/Desktop/100.bmp
